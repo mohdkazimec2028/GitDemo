@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="31" started-at="2020-07-25T18:54:35 IST" finished-at="2020-07-25T18:54:35 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="31" started-at="2020-07-25T18:54:35 IST" finished-at="2020-07-25T18:54:35 IST">
+      <class name="Kazim_Maven_Project_Suite.Maven_Java.AppiumTest">
+        <test-method status="PASS" signature="browserAutomation()[pri:0, instance:Kazim_Maven_Project_Suite.Maven_Java.AppiumTest@5ce81285]" name="browserAutomation" duration-ms="0" started-at="2020-07-25T18:54:35 IST" finished-at="2020-07-25T18:54:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+        <test-method status="PASS" signature="elementUI()[pri:0, instance:Kazim_Maven_Project_Suite.Maven_Java.AppiumTest@5ce81285]" name="elementUI" duration-ms="0" started-at="2020-07-25T18:54:35 IST" finished-at="2020-07-25T18:54:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementUI -->
+      </class> <!-- Kazim_Maven_Project_Suite.Maven_Java.AppiumTest -->
+      <class name="Kazim_Maven_Project_Suite.Maven_Java.SeleniumTest">
+        <test-method status="PASS" signature="browserAutomation()[pri:0, instance:Kazim_Maven_Project_Suite.Maven_Java.SeleniumTest@52a86356]" name="browserAutomation" duration-ms="3" started-at="2020-07-25T18:54:35 IST" finished-at="2020-07-25T18:54:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+        <test-method status="PASS" signature="elementUI()[pri:0, instance:Kazim_Maven_Project_Suite.Maven_Java.SeleniumTest@52a86356]" name="elementUI" duration-ms="0" started-at="2020-07-25T18:54:35 IST" finished-at="2020-07-25T18:54:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementUI -->
+      </class> <!-- Kazim_Maven_Project_Suite.Maven_Java.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
